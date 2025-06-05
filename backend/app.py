@@ -191,5 +191,6 @@ if __name__ == '__main__':
         logger.error("Failed to load model artifacts. Exiting...")
         exit(1)
     else:
-        logger.info("Starting Flask server...")
-        app.run(debug=True, host='0.0.0.0')
+        port = int(os.environ.get('PORT', 5000))
+        logger.info(f"Starting Flask server on port {port}...")
+        app.run(debug=False, host='0.0.0.0', port=port)
