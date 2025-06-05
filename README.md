@@ -288,8 +288,7 @@ Car_Predictor/
 - Built with amazing open-source technologies
 - Icons by [Font Awesome](https://fontawesome.com/)
 - UI Components by [Headless UI](https://headlessui.com/)
-   ```
-
+  
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -305,5 +304,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) 
 
 ## 📬 Contact
 
-[Abdul Rahman M] - [rahman14122004@gmail.com]  
-Project Link: [https://github.com/Ar141204/CarPricePredictor](https://github.com/Ar141204/CarPricePredictor)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="36"/>](https://www.linkedin.com/in/rahman141204)
+&nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="36" alt="Gmail logo"/>](mailto:rahman14122004@gmail.com)
